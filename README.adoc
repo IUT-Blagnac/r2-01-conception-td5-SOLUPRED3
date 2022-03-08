@@ -30,11 +30,11 @@ Ce TP vise à reprendre les diagrammes des UC et les lier avec le diagramme de c
 
 == À propos...
 
-NOM:: DOE
+NOM:: PEPIN
 
-Prénom:: John
+Prénom:: Matéo
 
-Groupe #::
+Groupe #:: 3B
 
 [%interactive]
 - [X] Enseignants
